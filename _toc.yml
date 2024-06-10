@@ -1,0 +1,8 @@
+format: jb-book
+root: index
+chapters:
+- file: simulations
+- file: datasets
+- file: regions
+- file: platforms
+- file: variables
