@@ -8,4 +8,6 @@ chapters:
 - file: datasets
 - file: regions
 - file: platforms
+  sections:
+    - file: platforms/adastra
 - file: variables
