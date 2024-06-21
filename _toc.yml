@@ -1,9 +1,7 @@
 format: jb-book
 root: index
-parts:
+chapters:
 - file: configurations
-  chapters:
-  -file: configurations/eORCA05.L121.md
 - file: simulations
 - file: datasets
 - file: regions
