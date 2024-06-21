@@ -1,6 +1,7 @@
 format: jb-book
 root: index
 chapters:
+- file: configurations
 - file: simulations
 - file: datasets
 - file: regions
